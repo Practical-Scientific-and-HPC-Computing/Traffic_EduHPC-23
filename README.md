@@ -4,10 +4,10 @@ Repository containing materials for the *Peachy Parallel Assignment for
 EduHPC-23: "Parallelizing the Nagel-Schreckenberg Traffic Model"*.
 
 Content
-  * Documents:
+  * [Documents](Documents):
 	handout assignment description
 
-  * Code:
+  * [Code](Code):
 	starter code to solve the *1-dimensional Nagel-Schreckenberg Traffic Model*
 
 
