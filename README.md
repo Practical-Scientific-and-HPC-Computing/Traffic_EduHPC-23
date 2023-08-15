@@ -5,7 +5,7 @@ EduHPC-23: "Parallelizing the Nagel-Schreckenberg Traffic Model"*.
 
 Content
   * [Documents](Documents):
-	handout assignment description
+	handout with assignment description
 
   * [Code](Code):
 	starter code to solve the *1-dimensional Nagel-Schreckenberg Traffic Model*
