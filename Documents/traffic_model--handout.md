@@ -284,7 +284,7 @@ for improvement by parallelizing them. Repeat the scaling analysis now with outp
 
 
 
-![Visualization of the reference **test case** included with the starter code. Plots generated using the `npyplot.py` script.](test.png)
+![Visualization of the reference **test case** included with the starter code. Plots generated using the `npyplot.py` script.](../Code/reference-test.png)
 
 
 ---
