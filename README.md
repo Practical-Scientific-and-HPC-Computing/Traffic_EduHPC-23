@@ -1,7 +1,7 @@
 # Traffic_EduHPC-23
 
-Repository containing materials for the *Peachy Parallel Assignment for
-EduHPC-23: "Parallelizing the Nagel-Schreckenberg Traffic Model"*.
+Repository containing materials for the *[Peachy Parallel Assignment for
+EduHPC-23](https://tcpp.cs.gsu.edu/curriculum/?q=peachy): "Parallelizing the Nagel-Schreckenberg Traffic Model"*.
 
 Content
   * [Documents](Documents):
