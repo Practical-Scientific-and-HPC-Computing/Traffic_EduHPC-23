@@ -18,4 +18,13 @@ EduHPC-23](https://tcpp.cs.gsu.edu/curriculum/?q=peachy): "Parallelizing the Nag
      TBA
    * Peachy Parallel Assignments website:
      https://tcpp.cs.gsu.edu/curriculum/?q=peachy
+
+   ### SC, workshops and presentations:
+   - EduHPC-23 Technical Program
+     https://tcpp.cs.gsu.edu/curriculum/?q=EduHPC-23-technical-program
+   - Presentation @ SC23:
+     https://sc23.conference-program.com/presentation/?id=ws_eduhpca105&sess=sess454
+   - EduHPC-23 @ SC23:
+     https://sc23.conference-program.com/session/?sess=sess454
+
 ---
