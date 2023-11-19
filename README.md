@@ -15,7 +15,7 @@ EduHPC-23](https://tcpp.cs.gsu.edu/curriculum/?q=peachy): "Parallelizing the Nag
    * Full paper:
      https://arxiv.org/abs/2309.14311
    * Peachy Parallel Assignments Paper:
-     https://doi.org/10.1145/3624062.3625541 
+     https://doi.org/10.1145/3624062.3625541 https://tcpp.cs.gsu.edu/curriculum/?q=system/files/PeachyEduHPC23.pdf
    * Peachy Parallel Assignments website:
      https://tcpp.cs.gsu.edu/curriculum/?q=peachy
 
